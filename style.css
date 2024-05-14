@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+    font-style: oblique;
+}
+h3 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lob-p {
+    font-size: 14px;
+    line-height: 2em;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.list-item {
+    display: block;
+    margin-left: 25%;
+    color: red;
+    list-style: georgian outside url('/non-existent.svg');;
+}
+
+.link-home {
+    margin-left: 10%;
+}
